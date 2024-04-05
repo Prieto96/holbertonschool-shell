@@ -1,2 +1,2 @@
-i!/bin/bash
+#!/bin/bash
 chwon -h-R vincent:staff _hello
